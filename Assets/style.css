@@ -1,0 +1,7 @@
+:root {
+    /* declare a variable with `--` syntax */
+    --dark: #13293d;
+    --light: #fff;
+    --border-radius: 50px;
+  }
+  
