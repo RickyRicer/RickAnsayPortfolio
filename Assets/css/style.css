@@ -1,0 +1,27 @@
+:root {
+    --red: #bd0000;
+    --gold: rgb(255, 208, 0);
+  }
+  
+.body {
+  background-color: var(--red);
+}
+
+.nav {
+  justify-content: space-between;
+  height: 50px;
+  background-color: var(--gold)
+}
+
+.nav-header {
+    margin-top: 16px;
+}
+
+.nav-link {
+    display:flex;
+    justify-content: space-between;
+}
+
+.nav-link-items {
+    margin: 5px;
+}
