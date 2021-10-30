@@ -25,3 +25,9 @@
 .nav-link-items {
     margin: 5px;
 }
+
+.container {
+  display:flex;
+  justify-content: space-evenly;
+  
+}
