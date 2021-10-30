@@ -13,7 +13,7 @@
 }
 
 .nav {
-  justify-content: space-between;
+  justify-content: space-evenly;
   height: 50px;
   background-color: var(--gold)
 }
